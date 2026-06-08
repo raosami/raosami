@@ -49,10 +49,30 @@
 
 <br />
 
+<h3 align="center"><strong>Overall GitHub Stats</strong></h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coderxsam&show_icons=true&theme=nightowl&bg_color=1c1c24&title_color=FFD700&icon_color=FFD700&text_color=ffffff&border_color=FFD700&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderxsam&layout=compact&theme=nightowl&bg_color=1c1c24&title_color=FFD700&text_color=ffffff&hide_border=true" width="40%" alt="Top Languages"/>
+</p>
+
+<br />
+
 <h2 align="center">📈 Engineering Activity Graph 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderxsam&bg_color=1c1c24&color=ffffff&line=FFD700&point=ffffff&area=false&hide_border=true" width="100%" alt="Sami's Activity Graph">
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coderxsam/coderxsam/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coderxsam/coderxsam/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/coderxsam/coderxsam/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</p>
 
 ---
 
