@@ -76,6 +76,14 @@
 
 ---
 
+## 🏙️ GitHub City — 3D Contribution Map
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub City Contribution Map" width="100%"/>
+</div>
+
+---
+
 # 💻 Tech Stack
 
 ### 🛠️ Programming & Core Frameworks
