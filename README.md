@@ -37,20 +37,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderxsam&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" width="49%" alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=coderxsam&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderxsam&layout=donut&theme=tokyonight&bg_color=0d1117&title_color=FFD700&text_color=ffffff&hide_border=true" width="38%" alt="Top Languages"/>
-</p>
-
----
-
-## 🏆 Trophy Showcase
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coderxsam&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="Trophies"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderxsam&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" width="80%" alt="Streak Stats"/>
 </p>
 
 ---
