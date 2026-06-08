@@ -22,6 +22,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: coderxsam
           MAX_REPOS: 100
+          SETTING_JSON: settings.json
 
       - name: Commit & Push
         run: |
