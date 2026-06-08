@@ -34,20 +34,6 @@
 
 ---
 
-## 🌐 Portfolio
-
-<div align="center">
-  <a href="https://coderxsam.vercel.app" target="_blank">
-    <img src="https://api.microlink.io/?url=https%3A%2F%2Fcoderxsam.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="82%" alt="Portfolio Preview"/>
-  </a>
-  <br/><br/>
-  <a href="https://coderxsam.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Visit%20My%20Portfolio-coderxsam.vercel.app-FFD700?style=for-the-badge&logo=vercel&logoColor=black" alt="Visit Portfolio"/>
-  </a>
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
