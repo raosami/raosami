@@ -36,7 +36,7 @@
 
 <div align="center">
   <a href="https://coderxsam.vercel.app" target="_blank">
-    <img src="https://s0.wordpress.com/mshots/v1/https%3A%2F%2Fcoderxsam.vercel.app?w=1280&h=720" width="82%" alt="Portfolio Preview"/>
+    <img src="https://api.microlink.io/?url=https%3A%2F%2Fcoderxsam.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="82%" alt="Portfolio Preview"/>
   </a>
   <br/><br/>
   <a href="https://coderxsam.vercel.app" target="_blank">
