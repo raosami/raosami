@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://coderxsam.vercel.app" target="_blank">
-    <img src="https://api.microlink.io/?url=https%3A%2F%2Fcoderxsam.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="Muhammad Sami Ullah — Portfolio"/>
+    <img src="https://api.microlink.io/?url=https%3A%2F%2Fraosami.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="Muhammad Sami Ullah — Portfolio"/>
   </a>
 </div>
 
@@ -13,11 +13,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/coderxsam/" target="_blank">
+  <a href="https://www.linkedin.com/in/raosami/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://medium.com/@coderxsam" target="_blank">
+  <a href="https://medium.com/@raosami" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
   &nbsp;
@@ -25,11 +25,11 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://coderxsam.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-coderxsam.vercel.app-FFD700?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
+  <a href="https://raosami.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-raosami.vercel.app-FFD700?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=coderxsam&style=for-the-badge&color=FFD700&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=raosami&style=for-the-badge&color=FFD700&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 ---
@@ -37,7 +37,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderxsam&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" width="80%" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raosami&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" width="80%" alt="Streak Stats"/>
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ## 📈 Engineering Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderxsam&bg_color=0d1117&color=FFD700&line=FFD700&point=ffffff&area=true&area_color=FFD700&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raosami&bg_color=0d1117&color=FFD700&line=FFD700&point=ffffff&area=true&area_color=FFD700&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -54,9 +54,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coderxsam/coderxsam/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coderxsam/coderxsam/output/github-snake.svg"/>
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/coderxsam/coderxsam/output/github-snake-dark.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raosami/raosami/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raosami/raosami/output/github-snake.svg"/>
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/raosami/raosami/output/github-snake-dark.svg" width="100%"/>
   </picture>
 </p>
 
@@ -93,20 +93,20 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/coderxsam?tab=repositories">
+  <a href="https://github.com/raosami?tab=repositories">
     <img src="https://img.shields.io/badge/SheShield-Women%20Safety%20IoT-E74C3C?style=for-the-badge&logo=google-home&logoColor=white" alt="SheShield"/>
   </a>
   &nbsp;
-  <a href="https://github.com/coderxsam?tab=repositories">
+  <a href="https://github.com/raosami?tab=repositories">
     <img src="https://img.shields.io/badge/StrideSense-IoT%20Assistive%20Nav-E67E22?style=for-the-badge&logo=python&logoColor=white" alt="StrideSense"/>
   </a>
   &nbsp;
-  <a href="https://github.com/coderxsam?tab=repositories">
+  <a href="https://github.com/raosami?tab=repositories">
     <img src="https://img.shields.io/badge/Twitter%20Scraper-RAG%20System-3498DB?style=for-the-badge&logo=selenium&logoColor=white" alt="Twitter Scraper RAG"/>
   </a>
 </p>
 
-<p align="center"><a href="https://github.com/coderxsam?tab=repositories"><strong>View All Repositories →</strong></a></p>
+<p align="center"><a href="https://github.com/raosami?tab=repositories"><strong>View All Repositories →</strong></a></p>
 
 ---
 
