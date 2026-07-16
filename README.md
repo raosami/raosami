@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://raosami.vercel.app" target="_blank">
-    <img src="https://api.microlink.io/?url=https%3A%2F%2Fraosami.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="Muhammad Sami Ullah — Portfolio"/>
-  </a>
-</div>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=700&lines=AI+Automation+Engineer+%F0%9F%A4%96;Computer+Vision+%26+RAG+Systems+%F0%9F%94%AD;Backend+Architecture+%7C+FastAPI+%7C+Flask+%E2%9A%A1;DevOps+%7C+Docker+%7C+Kafka+%F0%9F%90%B3;Data+Engineering+Pipelines+%F0%9F%93%8A;Tech+Mentor+%26+Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG"/>
 </p>
@@ -68,15 +62,28 @@
 
 ### 🛠️ Languages & Frameworks
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,go,cpp,c,mysql&perline=7" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=python,go,c,cpp,js,react,mysql&perline=7" alt="Languages & Frameworks"/>
 
-### 🧠 AI · ML · Data
+### 🧠 AI, ML & Data Engineering
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=7" alt="AI ML"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,kafka&perline=7" alt="AI ML Data"/>
 
-### ☁️ Infrastructure & DevOps
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=docker,firebase,git,linux,bash,vscode,github&perline=7" alt="DevOps"/>
+<sub>RAG · LLMs · Prompt Engineering · Embeddings · Vector Databases · NLP · Clustering · ETL Pipelines · Real-Time Analytics</sub>
+
+### ☁️ DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,firebase,selenium&perline=7" alt="DevOps & Tools"/>
+
+<sub>CI/CD · Microservices · Agile</sub>
+
+### 🔐 Security
+
+<sub>Secure Coding · Authentication & Authorization · Secure API Integration · Data Validation</sub>
 
 </div>
 
@@ -123,6 +130,27 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 📜 Certifications
+
+| Certification | Issuer |
+|---|---|
+| Code in Place | Stanford |
+| Data Science & ML with Python | LUMS |
+| Foundations of Cybersecurity | Google |
+| Offensive Security Intro | TryHackMe |
+| Defensive Security Intro | TryHackMe |
+| Generative AI Fundamentals | Databricks |
+| Build AI Agents with LangGraph | Simplilearn |
+| AI for Project Management | PMI |
+| Python – Basic & Intermediate | HackerRank |
+| SQL Analytics on Databricks | Databricks |
+
+## 🏆 Award
+
+**Product Management Case Study Competition** — Programmers Force, Lahore
 
 ---
 
