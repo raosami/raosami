@@ -135,18 +135,21 @@
 
 ## 📜 Certifications
 
-| Certification | Issuer |
-|---|---|
-| Code in Place | Stanford |
-| Data Science & ML with Python | LUMS |
-| Foundations of Cybersecurity | Google |
-| Offensive Security Intro | TryHackMe |
-| Defensive Security Intro | TryHackMe |
-| Generative AI Fundamentals | Databricks |
-| Build AI Agents with LangGraph | Simplilearn |
-| AI for Project Management | PMI |
-| Python – Basic & Intermediate | HackerRank |
-| SQL Analytics on Databricks | Databricks |
+<p align="center">
+  <img src="https://img.shields.io/badge/Code_in_Place-Stanford-FFD700?style=for-the-badge&labelColor=0d1117" alt="Code in Place - Stanford"/>
+  <img src="https://img.shields.io/badge/Data_Science_%26_ML-LUMS-FFD700?style=for-the-badge&labelColor=0d1117" alt="Data Science & ML with Python - LUMS"/>
+  <img src="https://img.shields.io/badge/Cybersecurity_Foundations-Google-FFD700?style=for-the-badge&logo=google&logoColor=FFD700&labelColor=0d1117" alt="Foundations of Cybersecurity - Google"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Offensive_Security_Intro-TryHackMe-FFD700?style=for-the-badge&logo=tryhackme&logoColor=FFD700&labelColor=0d1117" alt="Offensive Security Intro - TryHackMe"/>
+  <img src="https://img.shields.io/badge/Defensive_Security_Intro-TryHackMe-FFD700?style=for-the-badge&logo=tryhackme&logoColor=FFD700&labelColor=0d1117" alt="Defensive Security Intro - TryHackMe"/>
+  <img src="https://img.shields.io/badge/Generative_AI_Fundamentals-Databricks-FFD700?style=for-the-badge&logo=databricks&logoColor=FFD700&labelColor=0d1117" alt="Generative AI Fundamentals - Databricks"/>
+  <br/>
+  <img src="https://img.shields.io/badge/AI_Agents_with_LangGraph-Simplilearn-FFD700?style=for-the-badge&logo=langgraph&logoColor=FFD700&labelColor=0d1117" alt="Build AI Agents with LangGraph - Simplilearn"/>
+  <img src="https://img.shields.io/badge/AI_for_Project_Management-PMI-FFD700?style=for-the-badge&labelColor=0d1117" alt="AI for Project Management - PMI"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Python_Basic_%26_Intermediate-HackerRank-FFD700?style=for-the-badge&logo=hackerrank&logoColor=FFD700&labelColor=0d1117" alt="Python Basic & Intermediate - HackerRank"/>
+  <img src="https://img.shields.io/badge/SQL_Analytics-Databricks-FFD700?style=for-the-badge&logo=databricks&logoColor=FFD700&labelColor=0d1117" alt="SQL Analytics on Databricks - Databricks"/>
+</p>
 
 ## 🏆 Award
 
