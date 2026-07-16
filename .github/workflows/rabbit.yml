@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Rabbit Animation
 
 on:
   schedule:
@@ -15,15 +15,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake animation (light)
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: coderxsam
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+      - uses: actions/checkout@v4
 
-      - name: Push snake to output branch
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate rabbit animation
+        run: node scripts/generate-rabbit.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RABBIT_USERNAME: raosami
+
+      - name: Push rabbit to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

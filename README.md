@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://coderxsam.vercel.app" target="_blank">
+  <a href="https://raosami.vercel.app" target="_blank">
     <img src="https://api.microlink.io/?url=https%3A%2F%2Fraosami.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="Muhammad Sami Ullah — Portfolio"/>
   </a>
 </div>
@@ -50,23 +50,15 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐰 Contribution Rabbit
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raosami/raosami/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raosami/raosami/output/github-snake.svg"/>
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/raosami/raosami/output/github-snake-dark.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raosami/raosami/output/github-rabbit-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raosami/raosami/output/github-rabbit.svg"/>
+    <img alt="Contribution Rabbit" src="https://raw.githubusercontent.com/raosami/raosami/output/github-rabbit-dark.svg" width="100%"/>
   </picture>
 </p>
-
----
-
-## 🏙️ GitHub City — 3D Animated Contribution Map
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D Animated GitHub City" width="100%"/>
-</div>
 
 ---
 
